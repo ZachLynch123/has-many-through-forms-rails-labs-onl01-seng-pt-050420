@@ -36,7 +36,4 @@ describe 'Posts', type: 'feature' do
       expect(@category2).to eq('Funny')
     end
   end
-
- 
-  end
 end
